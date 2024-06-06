@@ -184,6 +184,4 @@ class ContactList{
             this.contacts=contacts;
         }
     }
-
-
 }

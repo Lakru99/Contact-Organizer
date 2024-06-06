@@ -3,7 +3,6 @@ import java.time.*;
 
 class Example{
     //-------------------CREATE AN ARRAYS ----------------
-    
     public static ContactList contactList= new ContactList();
     //----------------------CLEAR CONSOLE --------------------
 	public final static void clearConsole() { 
